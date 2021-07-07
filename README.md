@@ -1,6 +1,6 @@
 # toutiao1
 
-> A Vue.js project
+>我的第一个项目，基于vue + element-ui 的后台头条管理项目，绝大部分的功能实现了，还有一些功能没有完善，但是运行肯定是没有问题的。
 
 ## Build Setup
 
